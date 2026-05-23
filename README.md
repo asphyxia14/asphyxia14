@@ -1,4 +1,5 @@
 ## Hi, I'm Matthew 👋
+I'm currently a student at Central Philippine University
 
 <!--
 - 🔭 I’m currently working on ...
